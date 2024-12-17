@@ -29,15 +29,55 @@ Project-Chaos is a small, portable mini-computer. The name is inspired by Greek 
 - GIMP for image editing
 - Manim for animations
 
-### Future plans
+### Operating Systems
 
+- Raspberry Pi OS
+- Arch Linux
+- Ubuntu
+- Mint
+- Kali Linux
+- etc.
 
+easy switch between different OSes because of the Lite version of the CM5 board.
+
+## Progress
+
+- [x] Idea
+- [ ] Specs
+- [ ] Ports
+- [ ] Software
+- [ ] Operating Systems
+
+## Videos
 
 Script for the YouTube video that introduces this project
 
-## Video 1 script
+### Video Progress
 
-### Introduction
+| Video | Task      | Status                                                                     |
+| ----: | :-------- | :-------------------------------------------------------------------------- |
+|     1 | Topic     | ![Done](https://img.shields.io/badge/Status-Done-brightgreen)               |
+|     1 | Script    | ![In progress](https://img.shields.io/badge/Status-In%20progress-yellow)    |
+|     1 | Recording | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
+|     1 | Editing   | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
+|     1 | Uploading | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
+|       |           |                                                                             |
+|     2 | Topic     | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
+|     2 | Recording | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
+|     2 | Editing   | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
+|     2 | Script    | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
+|     2 | Uploading | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
+|     2 | Recording | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
+|     2 | Uploading | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
+|       |           |                                                                             |
+
+### Video 1 script
+
+#### Topic
+
+Channel introduction and project introduction for Project-Chaos
+
+#### Introduction
 
 <!-- First i will describe my idea. Then why I named it this. Plant specs... -->
 
@@ -45,7 +85,7 @@ Script for the YouTube video that introduces this project
 
 Hello, I am ERR0RW0LF and welcome to my channel. I am a fan of programming, hacking and computers. Today I am going to introduce you to my new project, Project-Chaos. This is a small, portable mini-computer. The name is inspired by Greek mythology. This device will serve as a starting point for many other projects. I am going to develop this project in a series of videos. So if you want I would be happy if you subscribe to my channel and follow along. Now let's get started.
 
-### Chapter 1: Idea
+#### Chapter 1: Idea
 
 I had this idea for a while now. I wanted to create a small, portable computer that I could use for various applications. I am a big fan of Raspberry Pi and I have used it in some of my personal projects. So when I saw that Raspberry Pi had released the new Computing Module 5, I knew that this was the perfect board for my project.
 
@@ -53,7 +93,7 @@ My main priority was to make this device portable and versatile. I wanted to be 
 
 For my requirements, I chose the Raspberry Pi CM5 with 8GB of RAM and no eMMC. This is the lite version of the board. It boots from an SD card unlike the eMMC version. I also chose the 7-inch touch display from Waveshare. This display is perfect for my project as it isn't too big and it has a good resolution.
 
-### Chapter 2: Specs
+#### Chapter 2: Specs
 
 Now let's talk about the specs of the device. As I mentioned earlier, the board I am using is the Raspberry Pi CM5 with 8GB of RAM. This board has built-in WiFi and Bluetooth which is great for my project. The display I am using is a 7-inch touch display from Waveshare. This display has a resolution of 1280×800 which is perfect for my project.
 
@@ -63,13 +103,13 @@ I also plan to run this device of a battery. The battery should last for at leas
 
 I'm not sure if I will add a physical keyboard to the device. I might just use a virtual keyboard on the display or connect a keyboard. I will decide that later.
 
-### Chapter 3: Software
+#### Chapter 3: Software
 
 I plan on using KiCad to design the PCB for this project.
 
 I want to be able to run different Linux distributions on this device. I will start with Raspberry Pi OS but I might switch to something else later. Maybe I will switch to Arch Linux, Ubuntu, Mint, Kali Linux, or something else. I will decide that later. It should be easy to switch between different OSes because I will use the Lite version of the CM5 board.
 
-### Chapter 4: Conclusion
+#### Chapter 4: Conclusion
 
 So that's it for this video. I hope you enjoyed it. In the next video, I will start designing the PCB for this project. I'm not sure if I will show the whole process or just the final result. Let me know which one you prefer in the comments and if you have any suggestions for this project, feel free to leave them in the comments. I hope to see you in the next one. Goodbye and don't crash your computer.
 
