@@ -38,7 +38,7 @@ Project-Chaos is a small, portable mini-computer. The name is inspired by Greek 
 - Kali Linux
 - etc.
 
-easy switch between different OSes because of the Lite version of the CM5 board.
+It is easy to switch between different OSes because of the Lite version of the CM5 board.
 
 ## Progress
 
