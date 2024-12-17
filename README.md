@@ -8,6 +8,30 @@ Project-Chaos is a small, portable mini-computer. The name is inspired by Greek 
 
 - Board: [Raspberry Pi CM5 8GB Ram, 0 eMMC (Lite version) WiFi and Bluetooth](https://www.raspberrypi.com/products/compute-module-5/?variant=cm5-108000)
 - Display: [7 inch touch display](https://www.waveshare.com/product/raspberry-pi/displays/lcd-oled/7ep-caplcd.htm?___SID=U)
+- Battery: 6 hours on a single charge
+
+### Ports
+
+- 2 USB 3.0 ports
+- 2 full-sized HDMI 2.0 ports
+- 3.5mm audio jack
+- Gigabit Ethernet port
+- USB-C power port
+- microSD card slot
+- GPIO pins
+
+### Software
+
+- KiCad for PCB design
+- DaVinci Resolve for video editing
+- OBS Studio for screen recording
+- Audacity for audio editing
+- GIMP for image editing
+- Manim for animations
+
+### Future plans
+
+
 
 Script for the YouTube video that introduces this project
 
