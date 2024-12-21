@@ -83,23 +83,25 @@ Channel introduction and project introduction for Project-Chaos
 
 <!-- My channel name is ERR0RW0LF, and I will refer to myself by this name. This will be the first video on my channel. -->
 
-Hello, I am ERR0RW0LF and welcome to my channel. I'm from Germany, so please excuse me if I mispronounce something. I like to program and have a bit of knowledge about hacking. Today, I am going to introduce you to my new project, Project-Chaos. This will be a small, portable mini-computer. The name is inspired by Greek mythology. This device will serve as a starting point for many other projects. I am going to develop this project in a series of videos. I'm new to making videos, so I hope my quality will improve. If you want to follow along and see me hopefully improve, I would be happy if you subscribe. Now, let's get started.
+Hello, I am ERR0RW0LF and welcome to my channel. I'm from Germany, so please excuse me if I mispronounce something. I like to program and have some knowledge about hacking. Today, I am excited to introduce you to my new project, Project-Chaos. This will be a small, portable mini-computer inspired by Greek mythology. This device will serve as a starting point for many other projects.
+
+I am going to develop this project in a series of videos. As I am new to making videos, I hope my quality will improve over time. If you want to follow along and see my progress, I would be happy if you subscribe. Now, let's get started.
 
 #### Chapter 1: Idea
 
-I had this idea for a while now. I wanted to create a small, portable computer that I could use for various applications. I am a big fan of Raspberry Pi and I have used it in some of my personal projects. So when I saw that Raspberry Pi had released the new Computing Module 5, I knew that this was the perfect board for my project.
+I've had this idea for a while now. I wanted to create a small, portable computer that could be used for various applications. Being a big fan of Raspberry Pi, I've used it in several personal projects. When I saw the release of the new Compute Module 5, I knew it was the perfect board for my project.
 
-My main priority was to make this device portable and versatile. I wanted to be able to use it for different purposes like programming, gaming, hacking, etc. I also wanted to make it expandable so that I could add more features to it in the future.
+My main priority is to create a portable and versatile device that can be used for various purposes such as programming, gaming, and hacking. Additionally, I want it to be expandable, allowing for the addition of more features in the future.
 
-For my requirements, I chose the Raspberry Pi CM5 with 8GB of RAM and no eMMC. This is the lite version of the board. It boots from an SD card unlike the eMMC version. I also chose the 7-inch touch display from Waveshare. This display is perfect for my project as it isn't too big and it has a good resolution.
+For my project, I selected the Raspberry Pi CM5 with 8GB of RAM and no eMMC, which is the lite version of the board. This version boots from an SD card, unlike the eMMC versions. Additionally, I chose a 7-inch touch display from Waveshare. This display is ideal for my project as it offers a good resolution without being too large.
 
 #### Chapter 2: Specs
 
-Now let's talk about the specs of the device. As I mentioned earlier, the board I am using is the Raspberry Pi CM5 with 8GB of RAM. This board has built-in WiFi and Bluetooth which is great for my project. The display I am using is a 7-inch touch display from Waveshare. This display has a resolution of 1280×800 which is perfect for my project.
+Now, let's dive into the specs of the device. I'm using the Raspberry Pi CM5 with 8GB of RAM, which comes with built-in WiFi and Bluetooth—perfect for my project. For the display, I've chosen a 7-inch touch screen from Waveshare, boasting a resolution of 1280×800, making it an ideal fit for this mini-computer.
 
-Then there are the ports. I plan to use the same ports as the Raspberry Pi Compute Module 5 IO board which includes:
+I also plan to power this device with a 5000mAh battery, which should provide at least 6 hours of usage on a single charge.
 
-I also plan to run this device on a battery with a capacity of 5000mAh. The battery should last for at least 6 hours on a single charge.
+Next, let's talk about the ports. I plan to use the same ports as the Raspberry Pi Compute Module 5 IO board, which includes:
 
 - 2 full-sized HDMI 2.0 ports
 - 3.5mm audio jack
