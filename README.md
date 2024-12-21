@@ -62,22 +62,20 @@ Script for the YouTube video that introduces this project
 |     1 | Editing   | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
 |     1 | Uploading | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
 |       |           |                                                                             |
-|     2 | Topic     | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
+|     2 | Topic     | ![Done](https://img.shields.io/badge/Status-Done-brightgreen)               |
+|     2 | Script    | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
 |     2 | Recording | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
 |     2 | Editing   | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
-|     2 | Script    | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
-|     2 | Uploading | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
-|     2 | Recording | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
 |     2 | Uploading | ![Not started](https://img.shields.io/badge/Status-Not%20started-lightgrey) |
 |       |           |                                                                             |
 
 ### Video 1 script
 
-#### Topic
+#### Topic Video 1
 
 Channel introduction and project introduction for Project-Chaos
 
-#### Introduction
+#### Introduction Video 1
 
 <!-- First, I will describe my idea and explain the origin of the project's name. Then, I will outline the specifications. -->
 
@@ -87,7 +85,7 @@ Hello, I am ERR0RW0LF and welcome to my channel. I'm from Germany, so please exc
 
 I am going to develop this project in a series of videos. As I am new to making videos, I hope my quality will improve over time. If you want to follow along and see my progress, I would be happy if you subscribe. Now, let's get started.
 
-#### Chapter 1: Idea
+#### Video 1 Chapter 1: Idea
 
 I've had this idea for a while now. I wanted to create a small, portable computer that could be used for various applications. Being a big fan of Raspberry Pi, I've used it in several personal projects. When I saw the release of the new Compute Module 5, I knew it was the perfect board for my project.
 
@@ -95,7 +93,7 @@ My main priority is to create a portable and versatile device that can be used f
 
 For my project, I selected the Raspberry Pi CM5 with 8GB of RAM and no eMMC, which is the lite version of the board. This version boots from an SD card, unlike the eMMC versions. Additionally, I chose a 7-inch touch display from Waveshare. This display is ideal for my project as it offers a good resolution without being too large.
 
-#### Chapter 2: Specs
+#### Video 1 Chapter 2: Specs
 
 Now, let's dive into the specs of the device. I'm using the Raspberry Pi CM5 with 8GB of RAM, which comes with built-in WiFi and Bluetooth—perfect for my project. For the display, I've chosen a 7-inch touch screen from Waveshare, boasting a resolution of 1280×800, making it an ideal fit for this mini-computer.
 
@@ -114,14 +112,20 @@ I plan to run different Linux distributions on this device, starting with Raspbe
 
 I am considering whether to add a physical keyboard to the device or use a virtual keyboard on the display.
 
-#### Chapter 3: Software
+#### Video 1 Chapter 3: Software
 
 I plan on using KiCad to design the PCB for this project.
 
 I want to be able to run different Linux distributions on this device. I will start with Raspberry Pi OS but I might switch to something else later. Maybe I will switch to Arch Linux, Ubuntu, Mint, Kali Linux, or something else. I will decide that later. It should be easy to switch between different OSes because I will use the Lite version of the CM5 board.
 
-#### Chapter 4: Conclusion
+#### Video 1 Chapter 4: Conclusion
 
 That's it for this video. I hope you enjoyed it. In the next video, I will start designing the PCB for this project. Let me know in the comments if you prefer to see the whole process or just the final result. If you have any suggestions for this project, feel free to leave them in the comments. See you in the next one. Goodbye and remember, stay curious and keep coding!
 
 <!-- I will probably use a glitch effect for the outro. -->
+
+### Video 2 script
+
+#### Topic Video 2
+
+Designing the PCB for Project-Chaos.
