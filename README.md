@@ -79,11 +79,11 @@ Channel introduction and project introduction for Project-Chaos
 
 #### Introduction
 
-<!-- First i will describe my idea. Then why I named it this. Plant specs... -->
+<!-- First, I will describe my idea and explain the origin of the project's name. Then, I will outline the specifications. -->
 
-<!-- My channel name is ERR0RW0LF I'm also going to call me that. This will be the first video on my channel. -->
+<!-- My channel name is ERR0RW0LF, and I will refer to myself by this name. This will be the first video on my channel. -->
 
-Hello, I am ERR0RW0LF and welcome to my channel. I am a fan of programming, hacking and computers. Today I am going to introduce you to my new project, Project-Chaos. This is a small, portable mini-computer. The name is inspired by Greek mythology. This device will serve as a starting point for many other projects. I am going to develop this project in a series of videos. So if you want I would be happy if you subscribe to my channel and follow along. Now let's get started.
+Hello, I am ERR0RW0LF and welcome to my channel. I'm from Germany, so please excuse me if I mispronounce something. I like to program and have a bit of knowledge about hacking. Today, I am going to introduce you to my new project, Project-Chaos. This will be a small, portable mini-computer. The name is inspired by Greek mythology. This device will serve as a starting point for many other projects. I am going to develop this project in a series of videos. I'm new to making videos, so I hope my quality will improve. If you want to follow along and see me hopefully improve, I would be happy if you subscribe. Now, let's get started.
 
 #### Chapter 1: Idea
 
@@ -97,11 +97,20 @@ For my requirements, I chose the Raspberry Pi CM5 with 8GB of RAM and no eMMC. T
 
 Now let's talk about the specs of the device. As I mentioned earlier, the board I am using is the Raspberry Pi CM5 with 8GB of RAM. This board has built-in WiFi and Bluetooth which is great for my project. The display I am using is a 7-inch touch display from Waveshare. This display has a resolution of 1280×800 which is perfect for my project.
 
-Then there are the ports. I plan to use the same ports as the Raspberry Pi Compute Module 5 IO board which includes 2 USB 3.0 ports, 2 full-sized HDMI 2.0 ports, a 3.5mm audio jack, a Gigabit Ethernet port, a USB-C power port, and a microSD card slot. I also plan to add a few more ports like a USB-C port for charging.
+Then there are the ports. I plan to use the same ports as the Raspberry Pi Compute Module 5 IO board which includes:
 
-I also plan to run this device of a battery. The battery should last for at least 6 hours on a single charge.
+I also plan to run this device on a battery with a capacity of 5000mAh. The battery should last for at least 6 hours on a single charge.
 
-I'm not sure if I will add a physical keyboard to the device. I might just use a virtual keyboard on the display or connect a keyboard. I will decide that later.
+- 2 full-sized HDMI 2.0 ports
+- 3.5mm audio jack
+- Gigabit Ethernet port
+- USB-C power port
+- microSD card slot
+- GPIO pins
+
+I plan to run different Linux distributions on this device, starting with Raspberry Pi OS. I may switch to Arch Linux, Ubuntu, Mint, Kali Linux, or another distribution later.
+
+I am considering whether to add a physical keyboard to the device or use a virtual keyboard on the display.
 
 #### Chapter 3: Software
 
@@ -111,6 +120,6 @@ I want to be able to run different Linux distributions on this device. I will st
 
 #### Chapter 4: Conclusion
 
-So that's it for this video. I hope you enjoyed it. In the next video, I will start designing the PCB for this project. I'm not sure if I will show the whole process or just the final result. Let me know which one you prefer in the comments and if you have any suggestions for this project, feel free to leave them in the comments. I hope to see you in the next one. Goodbye and don't crash your computer.
+That's it for this video. I hope you enjoyed it. In the next video, I will start designing the PCB for this project. Let me know in the comments if you prefer to see the whole process or just the final result. If you have any suggestions for this project, feel free to leave them in the comments. See you in the next one. Goodbye and remember, stay curious and keep coding!
 
 <!-- I will probably use a glitch effect for the outro. -->
