@@ -81,7 +81,7 @@ Channel introduction and project introduction for Project-Chaos
 
 <!-- My channel name is ERR0RW0LF, and I will refer to myself by this name. This will be the first video on my channel. -->
 
-Hello, I am ERR0RW0LF and welcome to my channel. I'm from Germany, so please excuse me if I mispronounce something. I like to program and have some knowledge about hacking. Today, I am excited to introduce you to my new project, Project-Chaos. This will be a small, portable mini-computer inspired by Greek mythology. This device will serve as a starting point for many other projects.
+Hello, I am ERR0RW0LF and welcome to my channel. I like to program. Today, I am excited to introduce you to my new project, Project-Chaos. This will be a small, portable mini-computer inspired by Greek mythology. This device will serve as a starting point for many other projects.
 
 I am going to develop this project in a series of videos. As I am new to making videos, I hope my quality will improve over time. If you want to follow along and see my progress, I would be happy if you subscribe. Now, let's get started.
 
